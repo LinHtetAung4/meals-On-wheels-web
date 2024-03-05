@@ -1,0 +1,83 @@
+.signup-container {
+    text-align: center;
+}
+
+
+.signup-content {
+    background: #f1bb3d;
+    box-shadow: 0 1px 11px rgba(0, 0, 0, 0.27);
+    border-radius: 12px;
+    width: 500px;
+    display: inline-block;
+    margin-top: 30px;
+    vertical-align: middle;
+    position: relative;    
+    padding: 35px;
+}
+
+.social-btn {
+    margin-bottom: 25px;
+    font-weight: 400;
+    font-size: 10px;
+}
+
+.social-btn img {
+    height: 40px;
+    float: left;
+    margin-left: 10px;
+    margin-top: -2px;
+}
+
+.social-btn.google {
+    margin-top: 7px;
+}
+
+.social-btn.facebook img {
+    height: 24px;
+    margin-left: 3px;
+}
+
+
+
+.login-link {
+    color: rgba(0, 0, 0, 0.65);
+    font-size: 14px;
+}
+
+.signup-title {
+    font-size: 1.5em;
+    font-weight: 500;
+    margin-top: 0;
+    margin-bottom: 30px;
+    color: rgba(0, 0, 0, 0.65);
+}
+
+
+/* alert style */
+/* Success Alert Style */
+.s-alert.success {
+    background-color: #4CAF50; /* Green background color */
+    color: white; /* White text color */
+    border: 1px solid #45a049; /* Darker green border */
+  }
+  
+  /* Error Alert Style */
+  .s-alert.error {
+    background-color: #f44336; /* Red background color */
+    color: white; /* White text color */
+    border: 1px solid #d32f2f; /* Darker red border */
+  }
+  
+  /* Container for Alert Messages */
+  .s-alert-box {
+    width: 300px; /* Adjust the width to your preference */
+    padding: 10px;
+    margin: 20px;
+    border-radius: 5px;
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 9999; /* Ensure alerts appear on top of other content */
+  }
+  
+
