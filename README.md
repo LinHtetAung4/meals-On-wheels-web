@@ -16,6 +16,7 @@ As a key member of the development team, I contributed to both frontend and back
 -VS Code: Utilized Visual Studio Code (VS Code) as the primary code editor for frontend and backend development. Leveraged its powerful features and extensions to streamline the development workflow.
 
 -MySQL Database: Implemented a relational database using MySQL to store meal data, user information, and order details. Designed database schemas, created tables, and optimized queries for efficient data retrieval and storage.
+
 **Features:**
 
 -User Authentication: Implemented user authentication and authorization mechanisms to secure user accounts and restrict access to certain features.
